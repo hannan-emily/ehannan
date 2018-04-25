@@ -13,7 +13,7 @@ class Projects extends Component {
 
           <div className="row projects">
             <div className="col s12">
-                <div className="offset-m8 col m3 project-text hide-on-small-only">
+                <div className="offset-m7 col m4 project-text hide-on-small-only">
                 <h2>PNW OVERLAND</h2>
                 <p>PNW Overland is your interactive guide to backcountry road adventures in the
                 Pacific Northwest. All you need to explore our world-famous mountain
@@ -29,7 +29,7 @@ class Projects extends Component {
 
                   <div className="col s12">
                     <div className='tech-used-parent'>
-                      <h5 className='tech-used'>TECHNOLOGIES USED&nbsp;&nbsp;</h5>
+                      <h5 className='tech-used'>TECHNOLOGIES USED&nbsp;&nbsp;</h5><br />
                       <img className="logo-tiny" src="./img/logo-node-square50.png" alt="" />
                       <img className="logo-tiny" src="./img/logo-express-square50.png" alt="" />
                       <h6 className="logo-tiny">EJS &nbsp;&nbsp;&nbsp;</h6>
@@ -61,7 +61,7 @@ class Projects extends Component {
 
                   <div className="col s12">
                     <div className='tech-used-parent'>
-                      <h5 className='tech-used'>TECHNOLOGIES USED&nbsp;&nbsp;</h5>
+                      <h5 className='tech-used'>TECHNOLOGIES USED&nbsp;&nbsp;</h5><br />
                       <img className="logo-tiny" src="./img/logo-node-square50.png" alt="" />
                       <img className="logo-tiny" src="./img/logo-express-square50.png" alt="" />
                       <h6 className="logo-tiny">EJS &nbsp;&nbsp;&nbsp;</h6>
@@ -81,10 +81,10 @@ class Projects extends Component {
 
         <div className="row projects">
           <div className="col s12">
-              <div className="offset-m1 col m3 project-text hide-on-small-only">
+              <div className="offset-m1 col m4 project-text hide-on-small-only">
                 <h2>MOOD TRACKER</h2>
                 <p>Chart your mood by analysing your selfies! A responsive Python/Django app,
-                we utilized the Amazon Facial Rekognition machine learning API, Charts.js
+                we utilized the Amazon Rekognition machine learning API, Charts.js
                 and Materialize to generate tracking of each user’s mood by photos. I developed all
                 front end components in Django & Materialize, built responsive image carousels
                 linked to Python, and acted as GitMaster.</p>
@@ -99,10 +99,10 @@ class Projects extends Component {
 
                   <div className="col s12">
                     <div className='tech-used-parent'>
-                      <h5 className='tech-used'>TECHNOLOGIES USED&nbsp;&nbsp;</h5>
+                      <h5 className='tech-used'>TECHNOLOGIES USED&nbsp;&nbsp;</h5><br />
                       <img className="logo-tiny" src="./img/logo-python-square50.png" alt="" />
                       <img className="logo-tiny" src="./img/logo-django-square50.png" alt="" />
-                      <h6 className="logo-tiny">AMAZON FACIAL REKOGNITION MACHINE LEARNING API &nbsp;&nbsp;&nbsp;</h6>
+                      <h6 className="logo-tiny">AMAZON REKOGNITION API &nbsp;&nbsp;&nbsp;</h6>
                       <h6 className="logo-tiny">CHARTS.JS&nbsp;&nbsp;&nbsp;</h6>
                       <h6 className="logo-tiny">MATERIALIZE&nbsp;&nbsp;&nbsp;</h6>
                       <h6 className="logo-tiny">AWS DEPLOYED&nbsp;&nbsp;&nbsp;</h6>
@@ -116,7 +116,7 @@ class Projects extends Component {
                   <div className="col s12">
                     <h2>MOOD TRACKER</h2>
                     <p>Chart your mood by analysing your selfies! A responsive Python/Django app,
-                    we utilized the Amazon Facial Rekognition machine learning API, Charts.js
+                    we utilized the Amazon Rekognition machine learning API, Charts.js
                     and Materialize to generate tracking of each user’s mood by photos. I developed all
                     front end components in Django & Materialize, built responsive image carousels
                     linked to Python, and acted as GitMaster.</p>
@@ -132,10 +132,10 @@ class Projects extends Component {
 
                   <div className="col s12">
                     <div className='tech-used-parent'>
-                      <h5 className='tech-used'>TECHNOLOGIES USED&nbsp;&nbsp;</h5>
+                      <h5 className='tech-used'>TECHNOLOGIES USED&nbsp;&nbsp;</h5><br />
                       <img className="logo-tiny" src="./img/logo-python-square50.png" alt="" />
                       <img className="logo-tiny" src="./img/logo-django-square50.png" alt="" />
-                      <h6 className="logo-tiny">AMAZON FACIAL REKOGNITION MACHINE LEARNING API &nbsp;&nbsp;&nbsp;</h6>
+                      <h6 className="logo-tiny">AMAZON REKOGNITION API &nbsp;&nbsp;&nbsp;</h6>
                       <h6 className="logo-tiny">CHARTS.JS&nbsp;&nbsp;&nbsp;</h6>
                       <h6 className="logo-tiny">MATERIALIZE&nbsp;&nbsp;&nbsp;</h6>
                       <h6 className="logo-tiny">AWS DEPLOYED&nbsp;&nbsp;&nbsp;</h6>
@@ -151,7 +151,7 @@ class Projects extends Component {
 
           <div className="row projects">
             <div className="col s12">
-                <div className="offset-m8 col m3 project-text hide-on-small-only">
+                <div className="offset-m7 col m4 project-text hide-on-small-only">
                 <h2>APOCALYPREP</h2>
                 <p>A comprehensive, real time emergency prep and severe weather alert app.
                 Built in React with Redux, we integrated the NOAA API, MongoDB master and
@@ -169,7 +169,7 @@ class Projects extends Component {
 
                   <div className="col s12">
                     <div className='tech-used-parent'>
-                      <h5 className='tech-used'>TECHNOLOGIES USED&nbsp;&nbsp;</h5>
+                      <h5 className='tech-used'>TECHNOLOGIES USED&nbsp;&nbsp;</h5><br />
                       <img className="logo-tiny" src="./img/logo-react-square50.png" alt="" />
                       <img className="logo-tiny" src="./img/logo-redux-square50.png" alt="" />
                       <img className="logo-tiny" src="./img/logo-mongo-square50.png" alt="" />
@@ -201,7 +201,7 @@ class Projects extends Component {
 
                   <div className="col s12">
                     <div className='tech-used-parent'>
-                      <h5 className='tech-used'>TECHNOLOGIES USED&nbsp;&nbsp;</h5>
+                      <h5 className='tech-used'>TECHNOLOGIES USED&nbsp;&nbsp;</h5><br />
                       <img className="logo-tiny" src="./img/logo-react-square50.png" alt="" />
                       <img className="logo-tiny" src="./img/logo-redux-square50.png" alt="" />
                       <img className="logo-tiny" src="./img/logo-mongo-square50.png" alt="" />
@@ -218,7 +218,7 @@ class Projects extends Component {
 
           <div className="row projects">
             <div className="col s12">
-                <div className="offset-m1 col m3 project-text hide-on-small-only">
+                <div className="offset-m1 col m4 project-text hide-on-small-only">
                   <h2>CHASING CARMEN SANDIEGO</h2>
                   <p>Chasing Carmen SanDiego is a delightful animated trivia game that pits you against that international thief, Carmen SanDiego.
                   Test your geographic knowledge in this two player HTML5 canvas game!</p>
@@ -233,7 +233,7 @@ class Projects extends Component {
 
                   <div className="col s12">
                     <div className='tech-used-parent'>
-                      <h5 className='tech-used'>TECHNOLOGIES USED&nbsp;&nbsp;</h5>
+                      <h5 className='tech-used'>TECHNOLOGIES USED&nbsp;&nbsp;</h5><br />
                       <img className="logo-tiny" src="./img/logo-jquery-square50.png" alt="" />
                       <img className="logo-tiny" src="./img/logo-js-square50.png" alt="" />
                       <h6 className="logo-tiny">HTML5 CANVAS&nbsp;&nbsp;&nbsp;</h6>
@@ -262,7 +262,7 @@ class Projects extends Component {
 
                   <div className="col s12">
                     <div className='tech-used-parent'>
-                      <h5 className='tech-used'>TECHNOLOGIES USED&nbsp;&nbsp;</h5>
+                      <h5 className='tech-used'>TECHNOLOGIES USED&nbsp;&nbsp;</h5><br />
                       <img className="logo-tiny" src="./img/logo-jquery-square50.png" alt="" />
                       <img className="logo-tiny" src="./img/logo-js-square50.png" alt="" />
                       <h6 className="logo-tiny">HTML5 CANVAS&nbsp;&nbsp;&nbsp;</h6>
@@ -280,7 +280,7 @@ class Projects extends Component {
 
           <div className="row projects">
             <div className="col s12">
-                <div className="offset-m8 col m3 project-text hide-on-small-only">
+                <div className="offset-m7 col m4 project-text hide-on-small-only">
                 <h2>YOURS 2 SHARE</h2>
                 <p>Winner: Best Overall App for WDI17/UXDI April Hackathon. Built in 8 hours,
                 a hackathon project that paired developers with UX designers to make an app
@@ -295,7 +295,7 @@ class Projects extends Component {
 
                   <div className="col s12">
                     <div className='tech-used-parent'>
-                      <h5 className='tech-used'>TECHNOLOGIES USED&nbsp;&nbsp;</h5>
+                      <h5 className='tech-used'>TECHNOLOGIES USED&nbsp;&nbsp;</h5><br />
                       <img className="logo-tiny" src="./img/logo-react-square50.png" alt="" />
                       <h6 className="logo-tiny">JAVASCRIPT&nbsp;&nbsp;&nbsp;</h6>
                       <h6 className="logo-tiny">MATERIALIZE&nbsp;&nbsp;&nbsp;</h6>
@@ -321,7 +321,7 @@ class Projects extends Component {
 
                   <div className="col s12">
                     <div className='tech-used-parent'>
-                      <h5 className='tech-used'>TECHNOLOGIES USED&nbsp;&nbsp;</h5>
+                      <h5 className='tech-used'>TECHNOLOGIES USED&nbsp;&nbsp;</h5><br />
                       <img className="logo-tiny" src="./img/logo-react-square50.png" alt="" />
                       <h6 className="logo-tiny">JAVASCRIPT&nbsp;&nbsp;&nbsp;</h6>
                       <h6 className="logo-tiny">MATERIALIZE&nbsp;&nbsp;&nbsp;</h6>
