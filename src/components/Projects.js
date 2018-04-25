@@ -224,7 +224,7 @@ class Projects extends Component {
                   Test your geographic knowledge in this two player HTML5 canvas game!</p>
 
                   <div className="col s6">
-                    <a className='button btn' href="https://hannan-emily.github.io/ChasingCarmenSanDiego/" target="_blank" rel="noopener noreferrer">LIVE GAME</a>
+                    <a className='button btn' href="https://hannan-emily.github.io/ChasingCarmenSanDiego/" target="_blank" rel="noopener noreferrer">DEMO</a>
                   </div>
 
                   <div className="col s6">
@@ -253,7 +253,7 @@ class Projects extends Component {
                   </div>
 
                   <div className="col s6">
-                    <a className='button btn' href="https://hannan-emily.github.io/ChasingCarmenSanDiego/" target="_blank" rel="noopener noreferrer">LIVE GAME</a>
+                    <a className='button btn' href="https://hannan-emily.github.io/ChasingCarmenSanDiego/" target="_blank" rel="noopener noreferrer">DEMO</a>
                   </div>
 
                   <div className="col s6">
@@ -272,7 +272,7 @@ class Projects extends Component {
 
                 </div>
 
-              <img className="col m12 project-image responsive-img hide-on-small-only" src="./img/cover-carmen.png" />
+              <img className="col l12 project-image responsive-img hide-on-small-only" src="./img/cover-carmen.png" />
 
             </div>
           </div>
@@ -328,7 +328,7 @@ class Projects extends Component {
                     </div>
                   </div>
                 </div>
-              <img className="col m12 project-image responsive-img hide-on-small-only" src="./img/cover-yours2share.png" />
+              <img className="col l12 project-image responsive-img hide-on-small-only" src="./img/cover-yours2share.png" />
             </div>
           </div>
 

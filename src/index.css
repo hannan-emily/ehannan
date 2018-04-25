@@ -16,7 +16,7 @@ h1 {
 h2 {
   font-family: 'Oswald', sans-serif;
   font-weight: 500;
-  font-size: 3em;
+  font-size: 2.5em;
   margin: 0px;
   top: -10%;
 }
@@ -91,6 +91,7 @@ h6 {
   font-weight: 200;
   font-size: 1em;
   display: inline-block;
+  display: inline-block;
 }
 
 .h2-white {
@@ -99,7 +100,7 @@ h6 {
 
 p {
   font-weight: 500;
-  font-size: 1.2em;
+  font-size: 1.1em;
 }
 
 .nav {
@@ -151,7 +152,7 @@ p {
   color: black;
   box-shadow: none;
   padding-bottom: 2.5em;
-  margin: 2em 1em 2em 1em;
+  margin: 1em 1em 1em 1em;
 }
 
 .tech-used {
