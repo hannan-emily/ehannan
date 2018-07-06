@@ -13,7 +13,6 @@ const Nav = props => {
                 <li><a href="/">HOME</a></li>
                 <li><a href="#projects">PROJECTS</a></li>
                 <li><a href="#technologies">TECH</a></li>
-                <li><a href="./img/resume-hannan.pdf" target="_blank" rel="noopener noreferrer">RESUME</a></li>
                 <li><a href="#about">ABOUT</a></li>
               </ul>
           </div>
@@ -23,7 +22,6 @@ const Nav = props => {
           <li><a href="/">HOME</a></li>
           <li><a href="#projects">PROJECTS</a></li>
           <li><a href="#technologies">TECH</a></li>
-          <li><a href="./img/resume-hannan.pdf" target="_blank" rel="noopener noreferrer">RESUME</a></li>
           <li><a href="#about">ABOUT</a></li>
         </ul>
       </div>
